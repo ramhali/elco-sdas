@@ -1,3 +1,7 @@
+# python
+*.py[cod]
+__pycache__/
+
 # Logs
 logs
 *.log
